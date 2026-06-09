@@ -1,0 +1,2 @@
+# Npm
+Site black list
